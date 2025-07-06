@@ -1,4 +1,4 @@
-# 10609_ssm452基于ssm+vue的在线听书网站+vue
+# 10609_基于ssm+vue的在线听书网站+vue
   
 # 项目资料包含：
 * 前后端源代码+SQL脚本
@@ -8,7 +8,7 @@
 # 项目资料获取方式
 * 需要资料或者有任何问题的加QQ：2684634017
 
-* 项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=10609
+* 项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=10609
 
 * 项目演示视频；https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/828%E5%A5%97ssm%E5%BD%95%E5%83%8F/10609_ssm452%E5%9F%BA%E4%BA%8Essm%2Bvue%E7%9A%84%E5%9C%A8%E7%BA%BF%E5%90%AC%E4%B9%A6%E7%BD%91%E7%AB%99%2Bvue%E5%BD%95%E5%83%8F.mp4
 
